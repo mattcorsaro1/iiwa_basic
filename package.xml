@@ -1,0 +1,14 @@
+<?xml version="2.0"?>
+<package format="2">
+  <name>iiwa_basic</name>
+  <version>0.0.0</version>
+  <description>The iiwa_basic package</description>
+
+  <maintainer email="mcorsaro@cs.brown.edu">mcorsaro</maintainer>
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>iiwa_msgs</depend>
+  <depend>iiwa_ros</depend>
+
+</package>
